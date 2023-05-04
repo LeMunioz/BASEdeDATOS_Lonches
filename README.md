@@ -4,7 +4,7 @@
 
 ### introducción generál:
 
-dfvbnmnm.kjgdxvmhghfv kjttgc hgjnb bm  hkhvhv bm bm mhvkhv bmmb hvkfkyfkfkv nhgjhvhvbv 
+Dentro de este trabajo buscaremos llevar a cabo el desarrollo de una base de datos funcional.
 
 ### Integrantes:
 * Garnica Escamilla Luis Javier
